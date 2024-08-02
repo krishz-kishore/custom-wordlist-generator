@@ -23,11 +23,15 @@ This repository contains a Bash script that recursively scans webserver files to
    ```bash
    git clone https://github.com/your-username/custom-wordlist-generator.git
    cd custom-wordlist-generator
+   ```
 2. Make the script executable:
-chmod +x list_directory_recursive.sh
+   ```bash
+   chmod +x list_directory_recursive.sh
+   ```
 
 3.Run the script with the directory you want to scan and the output file:
-
-./list_directory_recursive.sh /path/to/webserver/files output_wordlist.txt
+   ```bash
+   ./list_directory_recursive.sh /path/to/webserver/files output_wordlist.txt
+```
 
 Replace /path/to/webserver/files with the path to the webserver directory you want to scan, and output_wordlist.txt with the desired name of the output file.
