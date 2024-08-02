@@ -1,7 +1,6 @@
 
 ### `list_directory_recursive.sh`
 
-```bash
 #!/bin/bash
 
 # Directory to list
