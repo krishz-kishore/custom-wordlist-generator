@@ -21,7 +21,7 @@ This repository contains a Bash script that recursively scans webserver files to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/custom-wordlist-generator.git
+   git clone https://github.com/krishz-kishore/custom-wordlist-generator.git
    cd custom-wordlist-generator
    ```
 2. Make the script executable:
